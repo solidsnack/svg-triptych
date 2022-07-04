@@ -1,0 +1,21 @@
+.svg-triptych {
+    overflow: scroll;
+}
+
+.svg-triptych section section div {
+    background: white;
+    width: fit-content;
+    height: fit-content;
+    padding: 0;
+    margin: 0;
+}
+
+.svg-triptych section section {
+    background: white;
+    width: fit-content;
+    height: fit-content;
+    padding: 1vh 1vw;
+    margin: 0;
+    background-image: -webkit-radial-gradient(circle, black, white);
+}
+
