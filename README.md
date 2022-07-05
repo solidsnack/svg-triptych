@@ -3,6 +3,10 @@
 View SVG source, SVG in-browser and SVG rendered to PDF, all together on one
 page.
 
+Live demo at: http://solidsnack.github.io/svg-triptych/
+
+Only tested in Chrome. Please don't use in Safari -- at present, there is a bug that freezes the tab.
+
 The PDF page size is set by the SVG width and height attributes, so be sure to
 specify an appropriate `width`, `height` and `viewbox`.
 
